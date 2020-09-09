@@ -96,6 +96,9 @@ In this module you'll learn how to:
 
 - [Practical JavaScript Tutorial](https://watchandcode.com/p/practical-javascript) (best tutorial ever)
 - [study.hyf.be/js/oop](https://study.hackyourfuture.be/javascript/oop) (more links)
+- Getters & Setters
+  - [Mosh](https://programmingwithmosh.com/javascript/javascript-properties-getters-and-setters/)
+  - [Zell](https://dev.to/zellwk/why-use-getters-and-setters-functions-5a5f)
 
 ### Binding
 
@@ -228,7 +231,9 @@ Learn to:
 
 > after class
 
-_announced Monday_
+List Manager!  Following up on the tutorial from last week, your group will be building a web page that allows users to create as many lists as they want.  You will need to refactor the todo list from WatchAndCode into a prototype object that can be used to create so list instances.  A suggestion:  users can input a title and create a new list with that title.
+
+Along with prototypes, your group will be exploring `import` and `export`.  This week's [starter repository](https://github.com/HackYourFutureBelgium/starter-encapsulation-list-prototype) has the basics already in place for you.  Enjoy!
 
 #### Checklist
 
@@ -242,8 +247,6 @@ _announced Monday_
   - [ ] [Project board](https://github.com/_/_/projects/_)
 - Implementation
   - [ ] ES Modules (`import`/`export`)
-  - [ ] Tests for logic & view methods
-  - [ ] Initial state in `src/data.js`
   - [ ] Logs of each user interaction
 ```
 
@@ -314,3 +317,6 @@ Screen recordings of class.  Coaches, when sending your PR's with links please .
 1. Week 1:
     - Part 1: [`this`](https://vimeo.com/453294595)
     - Part 2: [OOP Refactor](https://vimeo.com/453294872)
+2. Week 2:
+    - Part 1: [getting/setting & Prototypes](https://vimeo.com/455538183)
+    - Part 2: [`Object.create` pt. 1](https://vimeo.com/455538415), [pt. 2](https://vimeo.com/455538951)
